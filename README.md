@@ -5,4 +5,4 @@ Java kullanarak geliştirdiğim küçük programlar.
 
 ## List of readme files / readme dosyaları listesi
 
-[Student Absence Tracker](https://github.com/caglayagmuricerr/JavaProgramlari/blob/main/AbsenceTracker/readme.md)
+[Student Attendance Tracker](https://github.com/caglayagmuricerr/JavaProgramlari/blob/main/AbsenceTracker/readme.md)
